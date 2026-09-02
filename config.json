@@ -1,0 +1,15 @@
+{
+    "name": "RioVibe Brasil",
+    "language": "Portuguese",
+    "announce": false,
+    "enable_query": true,
+    "max_players": 100,
+    "port": 7777,
+
+    "pawn": {
+        "main_scripts": [
+            "riovibe 1"
+        ],
+        "side_scripts": []
+    }
+}
